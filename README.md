@@ -1,4 +1,10 @@
 # Analysing-E-Commerce-Using-SQL
+
+Problem Statement: Building an SQL Project with E-Commerce Dataset from Kaggle
+The goal of this project is to analyze an E-Commerce dataset from Kaggle using SQL. The focus of the analysis is to evaluate sales performance, identify popular and underperforming products, track market trends, and discover high-value customers. Through this analysis, you will compare actual sales with sales targets to uncover key insights, optimize product strategies, and enhance decision-making for better business outcomes.
+![ER Diagram](https://github.com/user-attachments/assets/34e929e1-8cda-484c-a152-5c593bf3b728)
+
+
 For this project, I obtained the <a href="https://www.kaggle.com/datasets/benroshan/ecommerce-data">dataset from Kaggle containing sales data from an Indian E-commerce website</a> spanning from April 2018 to March 2019. <br><br>
 
 
